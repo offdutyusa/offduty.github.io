@@ -3763,3 +3763,13 @@
 	#h2 {
 	  font-weight: bold;
 	}
+	
+	
+  .center-form-inputs {
+	display: flex;
+	flex-direction: column;
+  }
+  
+  .center-form-inputs div {
+	margin: auto;
+  }
